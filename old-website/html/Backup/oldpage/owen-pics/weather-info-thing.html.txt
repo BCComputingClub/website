@@ -1,0 +1,12 @@
+<html><body>
+
+ <td width=150 style='width:112.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><a
+  href="http://www.wunderground.com/US/VA/Harrisonburg.html"><span
+  style='text-decoration:none;text-underline:none'><img border=0 width=127
+  height=41 id="_x0000_i1025"
+  src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/US/VA/Harrisonburg.gif"
+  alt="Click for Harrisonburg, Virginia Forecast"></span></a></p>
+  </td>
+
+</body></html>

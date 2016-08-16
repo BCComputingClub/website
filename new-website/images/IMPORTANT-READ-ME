@@ -1,0 +1,7 @@
+DO NOT put images you want to be in the image gallery in this directory.
+
+They WILL NOT show up.
+
+Instead, put images you want to show up in the image gallery in the "gallery-images/" directory.
+
+This directory is ONLY used for some random html banners/bgs and stuff like that, NOT for the image gallery.

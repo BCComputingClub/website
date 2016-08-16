@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">	
+	
+	<head>		
+		
+		<meta charset="utf-8">
+		<title>[ADD PAGE TITLE]</title>
+		
+		<link rel="stylesheet" href="styles/style.css" />
+				
+		<!--[if IE 6]>
+            <link rel="stylesheet" href="styles/ie6.css" />
+        <![endif]--> 
+        <!--[if IE 7]>
+            <link rel="stylesheet" href="styles/ie7.css" />
+        <![endif]-->
+		
+	</head>
+	
+	<body>	
+		
+		<div id="wrap">
+        	
+        	<div id="header">
+            	
+        		<a href="index.html" title="[ADD LINK TITLE]"><h1>Bridgewater College ACM</h1></a>       	
+        		          	
+
+            	<div id="nav">
+            	
+                	<ul id="nav-pages"> 
+                	                	     	
+			<li><a href="index.html" class="current">Home</a>-- </li>
+			<li><a href="meetings.html">Meetings</a>-- </li>
+			<li><a href="calender.html">Calendar</a>-- </li>
+			<li><a href="archives.html">Archives</a>-- </li>
+			<li><a href="programs.html">Programs</a>-- </li>
+			<li><a href="bylaws.html">Bylaws</a>-- </li>	
+			<li><a href="photos.html">Photos</a>-- </li>
+			<li><a href="officers.html">Officers</a>-- </li>
+			<li><a href="contact.html">Contact Us</a></li>	
+										
+            		</ul><!--end nav-pages-->
+            		
+            	</div><!--end nav-->
+
+            </div><!--end header-->
+            
+            <div id="main">    
+    			<!-------------------------------------------------------------->
+    			<img src="pics/ACM2002/radford-02a.jpg" alt="bam" width="200" height="150" //> 
+			
+
+
+			<!-------------------------------------------------------------->	
+	    </div><!--end main-->
+                		
+    		<div id="footer">
+				
+				<p class="copyright">Copyright &copy; 2012 &middot; [ADD COMPANY NAME] &middot; All Rights Reserved</p>
+				
+			</div><!--end footer-->
+            
+    	</div><!--end wrap-->	
+    	
+	</body>	
+	
+</html>

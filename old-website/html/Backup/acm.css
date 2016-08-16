@@ -1,0 +1,17 @@
+/* CSS Document */
+<STYLE>
+a, a:active{
+font:Georgia, "Times New Roman", Times, serif;
+}
+a:hover{
+font:Georgia, "Times New Roman", Times, serif;
+text-decoration:underline;
+}
+
+.menu{
+	font:Georgia, "Times New Roman", Times, serif;
+}
+body{
+background:#CCCCCC;
+}
+</STYLE>

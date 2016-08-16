@@ -1,0 +1,170 @@
+Security Technologies for PCs  version:  2/4/2004
+
+After purchase, make sure all of it is installed correctly.
+Many different companies make similar products, I could not list them all.
+There is also a lot of free downloads on the internet, some have spybots hidden inside.
+These are well respected commercial products.  They have also been written and tested.
+
+
+Safety Practices:
+-------------------------
+        File Sharing programs like Kazaa and Morpheous.  Do not use them.  
+	  They are a massive security whole.
+        Keep your web browser up-to-date.
+        Do not download software from unknown sources.
+        Do not read emails from unknown sources.
+        Monitor your children online.
+        Search for "computer security online" and look at some of the resources.
+        If you give your computer to someone, delete your personal files, 
+	  and then bleach the slack space.
+        Also delete the files in the temp areas or by a program that does this for you.
+
+
+Hardware
+-------------
+Backups information to CDs or DVDs
+
+
+Hardware Shutoff for Cable/Dsl Modem
+        Motorola 5100 Surfboard Cable Modem     www.motorola.com
+        If you do not have a button, use the 
+  enable/disable toggle inside network connections to turn the internet on/off.
+
+
+Router with a Firewall that uses NAT &/or SPI           
+        Linksys or Netgear Routers              www.linksys.com or www.netgear.com
+        Make sure whichever one you get uses the newest bios download.
+
+
+Wireless Network Security
+	  Use the 128-bit encryption
+       www.linksys.com/edu/wirelessstandards.asp
+      						www.linksys.com/edu/page10.asp
+      						www.linksys.com/edu/wpa.asp
+
+
+Hard Drive Backup with Biometric Security
+        Microsolutions                          www.micro-solutions.com
+
+
+Surge Protector with 1500 Joules &/or 
+         Uninterruptable Power Supply with 10 minutes of power
+        APC or Tripplite                        www.apc.com or www.tripplite.com
+
+
+Laptop/Desktop Physical Lock                    www.apc.com or www.targus.com
+
+
+Computer with Biometric Access Lock             www.apc.com or www.targus.com
+
+
+Password Protection (free)                      located in your computer BIOS   
+
+Software
+-------------
+Updated Operating System (Like SP2) (free)           Windows Update  
+        Make sure file and print sharing is off.  
+  This is inside your OS.
+
+	  Firewall Windows SP2
+
+	  Pop-up Blocker  Google, Sp2, Firefox
+
+	  Delete Cookies and temp files
+
+	  Keep address book separate from other email
+
+	  Change passwords monthly
+
+Internet Security Suites                             www.mcafee.com or www.symantec.com
+        Software Firewall with Intrusion Detection   www.pestpatrol.com
+        Updated Antivirus               
+        Spam Filter             
+        Ad/Pop Up Blockers      
+        If you have symantec ISS, you can right click (block traffic) 
+	  to shutdown internet access.
+
+
+Spyware Remover                                 www.webroot.com or www.pestpatrol.com
+        Do not use Spy Bot Search and Destroy.  It does not work well.
+        A lot of people use ad-aware.  The free version does not run continously.  
+	  So I don’t recommend it.
+
+
+Internet Essentials Window Washer/Spysweeper/Personal Favorites/Pop-up Blocker
+Window Washer: clean out vulnerable junk files  www.webroot.com
+        Slack disk shredder and swapfile shredder
+Personal Favorites Security Password Protected
+Phishing Blocker                
+Download Accerator              
+
+
+Secure Web Surfing                              www.webroot.com or www.anonymizer.com
+
+
+Email Certificates (free)                      
+	  Usually available through your email browser
+
+
+Email with Encryption (free download)           www.pgp.com or www.anonymizer.com
+
+
+Hard Drive Encryption                           www.pgp.com
+        PGP
+        If you are using NTFS, encryption is included in the system for free.
+
+
+Hard Drive Rollback Software                    www.symantec.com
+        Symantec GoBack
+
+
+Hardware Backup Software                        www.symantec.com
+        Symantec Ghost
+
+
+Laptop/Desktop Recovery Software with Disk Encryption           
+        Cyber Angel                             www.sentryinc.com
+        ztrace                                  www.ztrace.com
+
+Free Stuff on the Internet
+
+	For more security, use one computer that is not connected to the internet for 
+	Misc work.  Then use a different computer for surfing/emails/chatting/im.
+
+	If you know how to use Linux, you can use that type of machine to surf 
+   	and email.
+
+	Browse Smart – Do not go to questionable sites.
+
+	Use Pop-up blockers on various software.
+
+
+Internet Browser
+ 
+       Firefox is a free browser that is suppose to be very secure.
+
+
+Firewalls
+
+	Zone Alarm   http://www.zonealarm.com/
+
+
+Antivirus
+
+	Housecall.trendmicro.com
+	Avg   www.grisoft.com
+	Avast www.avast.com
+
+
+AntiSpybot
+
+	Ad-Aware                   http://www.lavasoftusa.com/
+	Spybot Search and Destroy  http://www.safer-networking.org/en/index.html
+
+
+Email
+
+	Gmail with Spam Filter
+	Use web-based email instead of an Outlook type of email.
+	Be email Savy - Do not open up questionable emails.
+
