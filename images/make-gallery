@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# run the java program to generate the gallery.html file
+java -jar MakeGallery.jar
