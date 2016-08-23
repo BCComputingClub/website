@@ -1,3 +1,8 @@
 TO ADD IMAGES TO THE GALLERY:
 -- add them to a folder inside "gallery/"
--- run "make-gallery.sh"
+-- run "./make-gallery" (it's a really short bash script)
+
+TO UPDATE HOW THE GALLERY IS GENERATED:
+-- edit the source code in the MakeGallery directory
+-- create a runnable JAR file for the program at "MakeGallery/MakeGallery.jar"
+-- run "./make-gallery" to generate "gallery.html"
